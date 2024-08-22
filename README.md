@@ -31,7 +31,7 @@ Follow these steps to replicate and run the project:
 1. Clone the Repository
 sh
 Copy code
-git clone https://github.com/OmkarWalunj/ampiy_data_feed.git
+git clone https://github.com/OmkarWalunj/AIBharata_ampiy.git
 cd ampiy_data_feed
 2. Install Dependencies
 Ensure you have Flutter and Dart installed. Navigate to the project directory and run:
